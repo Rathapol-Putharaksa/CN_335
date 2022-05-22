@@ -8,4 +8,4 @@
 
 [sword and flame](https://www.youtube.com/watch?v=ESyT1DCWk_g)
 
-[video link]([https://www.google.com](https://www.youtube.com/watch?v=GZ7ackJQk54))
+[video link](https://www.youtube.com/watch?v=GZ7ackJQk54)
