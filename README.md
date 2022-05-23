@@ -1,5 +1,13 @@
 # CN_335
 
+# technique
+ใช้ eevee render สำหรับshadingบางอย่างที่ cycle render ไม่รองรับ
+ใช้ explode สำหรับการทำให้วัตถุค่อยๆหายไป
+ใช้ i-frames คู่กับ shading ทำให้objectมีลูกเล่นมากขึ้น
+
+
+# refference
+
 [HDRI](https://polyhaven.com/a/quarry_04)
 
 [charecter model & action](https://www.mixamo.com)
